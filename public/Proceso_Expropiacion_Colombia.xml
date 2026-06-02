@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Proceso de Expropiación en Colombia">
+    <mxGraphModel dx="1600" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2500" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <mxCell id="header" value="PRORCESO DE EXPROPIACIÓN EN COLOMBIA (EXPROPIACIÓN ORDINARIA Y EXTRAORDINARIA)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="20" width="1000" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="obj" value="OBJETIVO: Transferir forzosamente la propiedad u otro derecho real sobre bienes privados a la Nación, a los departamentos, distritos, municipios u otras entidades públicas, por motivos de utilidad pública o interés social, mediante el pago previo de indemnización." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9c4;strokeColor=#fbc02d;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="1000" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="inicio" value="INICIO: La Entidad Estatal identifica la necesidad de adquirir un bien por motivos de utilidad pública o interés social." style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="500" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="det" value="DETERMINAR MODALIDAD DE EXPROPIACIÓN: Según la naturaleza, urgencia y finalidad del proyecto." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="500" height="50" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="col1" value="EXPROPIACIÓN ORDINARIA&#10;(Procedimiento General - Ley 9 de 1989, D. 1420 de 1998, Ley 388 de 1997 y demás normas)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="550" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o1" value="1. DECLARATORIA DE UTILIDAD PÚBLICA O INTERÉS SOCIAL. La entidad competente (Congreso, Asamblea, Concejo Municipal o Alcalde) expide acto administrativo motivado que declara la utilidad pública o interés social del proyecto. (Arts. 58 C.P, 10 Ley 9/89, 58 Ley 388/97)" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="550" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="o2" value="2. ESTUDIOS Y DISEÑOS. La entidad realiza los estudios técnicos, jurídicos, financieros y sociales del proyecto y define el bien o derechos a adquirir." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="460" width="550" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o3" value="3. OFERTA FORMAL DE COMPRA. La entidad formula oferta de compra al titular inscrito del bien, indicando el precio con base en avalúo comercial. (Art. 61 Ley 388/97). Se notifica de manera personal." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="550" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="o4" value="4. NEGOCIACIÓN DIRECTA. Se abre un término no menor a 30 días hábiles para que las partes lleguen a un acuerdo sobre el precio y las condiciones de compra." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="610" width="550" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="dec" value="¿Se llegó a acuerdo?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="225" y="690" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="acuerdo" value="5A ACUERDO VOLUNTARIO. Se suscribe promesa de compraventa y luego escritura pública de compraventa y se registra. Se realiza el pago del precio. FIN DEL PROCESO." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="200" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="o6" value="6. DEMANDA DE EXPROPIACIÓN. La entidad presenta demanda de expropiación ante el Juez Civil del Circuito del lugar donde se encuentre el bien. (Art. 62 Ley 388/97)" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="770" width="250" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="o7" value="7. ADMISIÓN DE LA DEMANDA. El juez admite la demanda, ordena notificar al demandado y correr traslado." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="860" width="250" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o8" value="8. CONTESTACIÓN Y TRASLADO. El demandado puede contestar la demanda y solicitar la práctica de pruebas." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="930" width="250" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o9" value="9. AUDIENCIA Y PRÁCTICA DE PRUEBAS. El juez adelanta audiencia, decreta y practica pruebas y escucha alegatos." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1000" width="250" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o10" value="10. SENTENCIA. El juez declara la expropiación y determina la indemnización (precio) a pagar por el bien y/o derechos." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1070" width="250" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o11" value="11. PAGO DE LA INDEMNIZACIÓN. La entidad consigna el valor de la indemnización a órdenes del juzgado." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1140" width="250" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o12" value="12. REGISTRO Y TRANSFERENCIA. Ejecutoriada la sentencia y realizado el pago, se inscribe la transferencia del dominio a favor de la entidad expropiante. FIN DEL PROCESO." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1210" width="250" height="80" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="col2" value="EXPROPIACIÓN EXTRAORDINARIA&#10;(Procedimientos Especiales - Ley 388 de 1997, Ley 1682 de 2013, D. 1170 de 2015, D. 4165 de 2011)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="500" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="e1" value="1. DECLARATORIA DE UTILIDAD PÚBLICA O INTERÉS SOCIAL. La autoridad competente expide el acto administrativo que declara la utilidad pública o interés social del proyecto." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="650" y="370" width="500" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="e2" value="2. ACTO ADMINISTRATIVO DE EXPROPIACIÓN. La entidad expide resolución motivada que ordena la expropiación del bien o derechos específicos e indica la indemnización ofrecida (avalúo comercial). Se notifica al titular inscrito. (Art. 3 Ley 9/89; Arts. 61 y 70 Ley 388/97)." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="650" y="440" width="500" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="e3" value="3. OFERTA DE INDEMNIZACIÓN Y PAGO / DEPÓSITO PREVIO. La entidad paga o consigna a órdenes del Juez Civil del Circuito competente el valor de la indemnización ofrecida. Con el depósito previo queda en firme el acto de expropiación." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="650" y="520" width="500" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="e4" value="4. TOMA DE POSESIÓN ADMINISTRATIVA. Una vez en firme el acto y efectuado el depósito, la entidad puede ingresar al bien y tomar posesión material inmediata. Se levanta inventario y acta de entrega." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="650" y="600" width="500" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="e4a" value="4A EXPROPIACIÓN POR VÍA ADMINISTRATIVA (Ley 9/89; Ley 388/97; D. 1420/98). Para proyectos en los que se requiere agilidad en la ejecución." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="650" y="680" width="240" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="e4b" value="4B EXPROPIACIÓN POR VÍA JUDICIAL ESPECIAL (Ley 1682 de 2013; D. 1170/2015; D. 4165/2011). Para proyectos de infraestructura de transporte, energía, hidrocarburos, minería y otros de interés estratégico." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="910" y="680" width="240" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="e5" value="5. DETERMINACIÓN JUDICIAL DEL PRECIO DEFINITIVO. El titular puede demandar ante el Juez Civil del Circuito, dentro de los 3 años siguientes a la toma de posesión, para que se determine el valor real de la indemnización." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="650" y="770" width="500" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="e6" value="6. PROCESO JUDICIAL SOBRE EL MONTO. El juez practica pruebas, realiza audiencia y dicta sentencia fijando el valor definitivo de la indemnización." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="650" y="840" width="500" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="e7" value="7. PAGO DEL SALDO O REINTEGRO. Si el valor reconocido es mayor al depósito, la entidad paga el saldo al titular. Si es menor, el excedente se reintegra a la entidad." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="650" y="910" width="500" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="e8" value="8. REGISTRO. Se inscribe la adquisición a nombre de la entidad expropiante. FIN DEL PROCESO." style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="650" y="980" width="500" height="60" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
